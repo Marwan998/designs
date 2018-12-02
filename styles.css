@@ -1,0 +1,92 @@
+/* You can add global styles to this file, and also import other style files */
+.container{
+  border: 1px solid #115511;
+  border-top: 0px;
+}
+
+.navbar-brand{
+  font-size: 35px;
+  font-weight: bold;
+}
+.head{
+  width:100%;
+    border-radius: 0;
+}
+.logo{
+  padding:0px;
+  color:#fff !important ;
+  border: 1px solid #fff;
+  border-radius:5px;
+}
+.h{
+  align-self: right;
+  width:100px;
+  margin-right: 7px;
+  background-color: #fff;
+}
+.search{
+  text-align: center;
+  width:30px;
+  margin-right: 10px;
+  margin-left: 0px;;
+  color: #fff;
+}
+.box{
+  margin-right: 0px;
+}
+.h:hover{
+  background-color: #000;
+  color:green;
+}
+nav{
+  width:100%;
+}
+.sidebar{
+  margin-top:35px;
+  margin-bottom: 35px;
+  border-left: 2px solid #28a745;
+}
+.social-media-section
+{
+    height: 50px;
+    width: 100%;
+    background-color: #28a745;
+
+}
+.foot{
+  height:500px;
+  background-color: #28a745;
+  width: 100%;
+  border-top: 1px solid #ffffff;
+}
+.f1,.f2,.f3{
+  height:100%;
+  padding:30px;
+  border: 1px solid #fff;}
+.r{
+  height: 100%;
+}
+.copy-right{
+  text-align: center;
+  padding-top: 5px;
+  font-size: small;
+}
+.full{
+  width: 100%;
+}
+.homebody{
+  width: 100%;
+  height: auto;
+
+}
+.blog{
+  margin: 20px;
+  padding: 15px;
+}
+.blog p i{
+  font-size: 10px;
+  font-weight: bold;
+}
+.bloginfo{
+  display: inline;
+}
