@@ -1,0 +1,32 @@
+.break-1{
+  height: 275px;
+  background-image: url("imgs/about-1.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment:fixed;
+  color: #fff;
+  text-align: center;
+}
+.break-1 .col-xs{
+  padding-top: 3em;
+  text-shadow: 2px 1px 3px #000000;
+  font-weight: bold;
+}
+.story{
+  padding:5em;
+  text-align:center;
+}
+.story h3{
+  font-size: 50px;
+  font-weight: 700;
+}
+.team{
+  padding-top: 1em;
+  text-align: center;
+}
+.team .col img{
+  height: 300px;
+}
+.team .col h5{
+  color: #727272;
+}
